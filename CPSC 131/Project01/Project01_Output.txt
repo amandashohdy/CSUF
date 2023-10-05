@@ -1,1 +1,82 @@
+amanda@Amanda:/mnt/c/CppProjects/Project01$ g++ Project01.cpp -o project01
+amanda@Amanda:/mnt/c/CppProjects/Project01$ ./project01
+-------Inventory-------
+Name                Expiration     Category       Quantity  
+Protein Bar         05/09/2023     Snacks         4
+Milk                05/12/2023     Regular        2
+Cereals             09/12/2023     Snacks         5
 
+Updating item: Milk
+
+-------Inventory-------
+Name                Expiration     Category       Quantity  
+Protein Bar         05/09/2023     Snacks         4
+Milk                09/24/2023     Regular        3
+Cereals             09/12/2023     Snacks         5
+
+Increasing quantity for item: Cereals
+
+-------Inventory-------
+Name                Expiration     Category       Quantity
+Protein Bar         05/09/2023     Snacks         4
+Milk                09/24/2023     Regular        3
+Cereals             09/12/2023     Snacks         10
+
+Updating item: bar
+
+Item Not Found
+
+-------Inventory-------
+Name                Expiration     Category       Quantity
+Protein Bar         05/09/2023     Snacks         4
+Milk                09/24/2023     Regular        3
+Cereals             09/12/2023     Snacks         10
+
+Updating item: Cereals
+
+-------Inventory-------
+Name                Expiration     Category       Quantity
+Protein Bar         05/09/2023     Snacks         4
+Milk                09/24/2023     Regular        3
+Cereals             09/27/2023     Regular        4
+
+There are 3 total items.
+
+
+Removing item: Bread
+
+Item Not Found.
+
+
+Removing item: Milk
+
+-------Inventory-------
+Name                Expiration     Category       Quantity
+Protein Bar         05/09/2023     Snacks         4
+Cereals             09/27/2023     Regular        4
+
+Searching for item: Cereals
+
+Name                Expiration     Category       Quantity
+Cereals             09/27/2023     Regular        4
+
+-------Appointments-------
+Name                Date           Time           CWID
+John Bob            09/12/2023     9:30AM         889456723
+Jim Lee             09/12/2023     10:30AM        883476923
+Chris Lynn          09/12/2023     12:00PM        879455714
+Arnav Shah          09/12/2023     12:00PM        879459583
+
+There are 2 appointments on 09/12/2023 at 12:00PM.
+
+
+You have already scheduled an appointment.
+
+
+Removing most recently added appointment...
+
+-------Appointments-------
+Name                Date           Time           CWID
+John Bob            09/12/2023     9:30AM         889456723
+Jim Lee             09/12/2023     10:30AM        883476923
+Chris Lynn          09/12/2023     12:00PM        879455714
