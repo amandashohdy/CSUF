@@ -34,7 +34,6 @@ template <typename T> class Item
 template <typename T> class Inventory
 {
     public:
-
         void addNewItem(Item<T> newItem)
         {
             // whether or not item is found in inventory
