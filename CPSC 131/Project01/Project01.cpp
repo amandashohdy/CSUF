@@ -3,9 +3,9 @@
  * Project 01
  *****************/
 
-#include<iostream>
-#include<string>
-#include<vector>
+#include <iostream>
+#include <string>
+#include <vector>
 #include <stdexcept>
 #include <iomanip>
 
