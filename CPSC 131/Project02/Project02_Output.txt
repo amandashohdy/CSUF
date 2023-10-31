@@ -1,0 +1,104 @@
+amanda@Amanda:/mnt/c/CppProjects/Project02$ g++ Project02.cpp -o project02
+amanda@Amanda:/mnt/c/CppProjects/Project02$ ./project02
+Browser tab list =
+| Google  x|-->
+
+Switch to previous tab =
+No previous tab.
+
+Switch to Next tab =
+No next tab.
+
+Browser tab list =
+| Google  x|-->| YouTube  x|-->
+
+Browser tab list =
+| Google  x|-->| YouTube  x|-->| GeeksForGeeks  x|-->| ChatGPT  x|-->| LinkedIn  x|-->| Github  x|-->| Kaggle  x|-->
+
+Total memory consumption = 1084.23MB
+
+Bookmarks:
+YouTube (https://www.youtube.com)
+GeeksForGeeks (https://www.geeksforgeeks.com)
+LinkedIn (https://linkedin.com)
+Kaggle (https://kaggle.com)
+
+Browser tab list =
+| Kaggle  x|-->| Google  x|-->| YouTube  x|-->| GeeksForGeeks  x|-->| ChatGPT  x|-->| LinkedIn  x|-->| Github  x|-->
+
+
+Deleting Tab: LinkedIn <https://linkedin.com>  Memory: 410
+
+Browser tab list =
+| Kaggle  x|-->| Google  x|-->| YouTube  x|-->| GeeksForGeeks  x|-->| ChatGPT  x|-->| Github  x|-->
+
+Switch to next tab =
+Current Tab:
+  Google <https://www.google.com>  Memory: 23.45
+
+Switch to previous tab =
+Current Tab:
+  Kaggle <https://kaggle.com>  Memory: 310
+
+
+Closing Current Tab: Kaggle
+Now the current tab = Google
+
+Browser tab list =
+| Google  x|-->| YouTube  x|-->| GeeksForGeeks  x|-->| ChatGPT  x|-->| Github  x|-->
+
+Switch to previous tab =
+No previous tab.
+
+
+Closing Current Tab: Google
+Now the current tab = YouTube
+
+Browser tab list =
+| YouTube  x|-->| GeeksForGeeks  x|-->| ChatGPT  x|-->| Github  x|-->
+
+
+Bookmarks:
+YouTube (https://www.youtube.com)
+GeeksForGeeks (https://www.geeksforgeeks.com)
+LinkedIn (https://linkedin.com)
+Kaggle (https://kaggle.com)
+
+Total Memory Consumption = 340.78MB
+
+Deleting Tab: ChatGPT <https://chat.openai.com>  Memory: 129
+
+Browser tab list =
+| YouTube  x|-->| GeeksForGeeks  x|-->| Github  x|-->
+
+Browser tab list =
+| YouTube  x|-->| GeeksForGeeks  x|-->| Github  x|-->| Google Docs  x|-->
+
+Switch to previous tab =
+Current Tab:
+  Github <https://github.com>  Memory: 110
+
+Switch to previous tab =
+Current Tab:
+  GeeksForGeeks <https://www.geeksforgeeks.com>  Memory: 45.78
+
+Switch to previous tab =
+Current Tab:
+  YouTube <https://www.youtube.com>  Memory: 56
+
+
+The bookmark is already added.
+
+
+Bookmarks:
+YouTube (https://www.youtube.com)
+GeeksForGeeks (https://www.geeksforgeeks.com)
+LinkedIn (https://linkedin.com)
+Kaggle (https://kaggle.com)
+
+Total memory consumption = 314.12MB
+
+Deleting Tab: Github <https://github.com>  Memory: 110
+
+Browser tab list =
+| YouTube  x|-->| GeeksForGeeks  x|-->| Google Docs  x|-->
