@@ -242,6 +242,7 @@ int main(){
     b1.switchToPrevTab();
     std::cout<<"Switch to Next tab = "<<std::endl;
     b1.switchToNextTab();
+    
     b1.addNewTab("https://www.youtube.com","YouTube",56);
     b1.bookmarkCurrent();
     b1.display();
@@ -256,10 +257,12 @@ int main(){
     b1.display();
     std::cout<<"Total memory consumption = "<<b1.total_memory()<<"MB"<<std::endl;
     b1.showBookmarkTab();
+    
     b1.moveCurrentToFirst();
     b1.display();
     b1.deleteTab();
     b1.display();
+    
     std::cout<<"Switch to next tab = "<<std::endl;
     b1.switchToNextTab();
     std::cout<<"Switch to previous tab = "<<std::endl;
@@ -270,10 +273,12 @@ int main(){
     b1.switchToPrevTab();
     b1.closeCurrentTab();
     b1.display();
+    
     b1.showBookmarkTab();
     std::cout<<"Total Memory Consumption = "<<b1.total_memory()<<"MB"<<std::endl;
     b1.deleteTab();
     b1.display();
+    
     b1.addNewTab("https://docs.google.com/","Google Docs",102.34);
     b1.display();
     std::cout<<"Switch to previous tab = "<<std::endl;
