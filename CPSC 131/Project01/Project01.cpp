@@ -1,6 +1,6 @@
 /*****************
  * Amanda Shohdy 
- * Project 01
+ *  Project 01
  *****************/
 
 #include <iostream>
