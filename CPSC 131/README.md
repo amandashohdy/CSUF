@@ -1,1 +1,1 @@
-**Data Structures**     Fall 23
+**Data Structures** (Fall 23)
