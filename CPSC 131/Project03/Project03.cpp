@@ -1,6 +1,6 @@
 /*****************
  * Amanda Shohdy *
- *   887333557   *
+ *  Project 03   *
  *****************/
 
 #include <iostream>
