@@ -1,5 +1,5 @@
 Given the following CFG <br>
-    E -> E & T <br>
+   <t>E -> E & T <br>
     E -> E % T <br>
     E -> F! <br>
     F -> F < T <br>
