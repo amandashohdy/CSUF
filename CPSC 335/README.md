@@ -1,1 +1,2 @@
-Algorithm Engineering (Spring 24)
+**CPSC 335** Algorithm Engineering 
+<br>Spring 24
