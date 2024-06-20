@@ -1,0 +1,12 @@
+Enter a string ending in $: t&(f%t)$
+input           stack
+--------------------------------
+t&(f%t)$        ['$']
+t&(f%t)$        ['$', 'E']
+t&(f%t)$        ['$', "E'", '!', 'F']
+t&(f%t)$        ['$', "E'", '!', "F'", 't']
+&(f%t)$         ['$', "E'", '!', "F'"]
+&(f%t)$         ['$', "E'", '!', "F'"]
+String rejected
+Press Enter to Close...
+
